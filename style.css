@@ -78,3 +78,18 @@ border-radius:15px;
 box-shadow:0px 0px 10px rgba(0,0,0,.1);
 
 }
+nav {
+    background-color: #333;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: gold;
+}
